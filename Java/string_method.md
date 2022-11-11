@@ -33,4 +33,3 @@ equals 메소드는 대상 내용 자체를 비교하지만
 
 ----
 
-[링크 테스트](https://github.com/littlezero48/til/blob/main/MarkDown/Header.md)
