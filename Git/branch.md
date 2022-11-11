@@ -1,17 +1,19 @@
 # branch
 
-* branch 생성
+</br>
+
+### branch 생성
 
 ```bash
 git branch [new branch name]
 ```
 
 새로운 브랜치를 생성한다. 
-<br>
+</br>
 
 ---
 
-* branch list 보기
+### branch list 보기
 
 ```bash
 git branch
@@ -19,17 +21,17 @@ git branch
 
 로컬 브랜치를 조회한다.
 
-<br>
+</br>
 
 > 옵션
 > 
 > -r : remote branch list를 보여준다
 
-<br>
+</br>
 
 ------
 
-* branch 삭제
+### branch 삭제
 
 ```bash
 git branch -d [branch name]
@@ -37,17 +39,17 @@ git branch -d [branch name]
 
 로컬 브랜치를 제거한다.
 
-<br>
+</br>
 
 > 옵션
 > 
 > -d  를 -D로 교체 : 강제 삭제된다.
 
-<br>
+</br>
 
 ----
 
-* remote branch 삭제
+### remote branch 삭제
 
 ```bash
 git push origin --delete [remote branch name]
