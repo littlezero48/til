@@ -9,6 +9,9 @@ git branch [new branch name]
 ```
 
 새로운 브랜치를 생성한다. 
+
+</br>
+
 </br>
 
 ---
@@ -56,3 +59,9 @@ git push origin --delete [remote branch name]
 ```
 
 원격 브랜치를 삭제한다. remote branch name에서 origin 제외
+
+</br>
+
+</br>
+
+---
