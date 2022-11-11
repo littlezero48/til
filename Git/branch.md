@@ -12,9 +12,9 @@ git branch [new branch name]
 
 </br>
 
-</br>
-
 ---
+
+</br>
 
 ### branch list 보기
 
@@ -34,6 +34,8 @@ git branch
 
 ------
 
+</br>
+
 ### branch 삭제
 
 ```bash
@@ -52,6 +54,8 @@ git branch -d [branch name]
 
 ----
 
+</br>
+
 ### remote branch 삭제
 
 ```bash
@@ -59,8 +63,6 @@ git push origin --delete [remote branch name]
 ```
 
 원격 브랜치를 삭제한다. remote branch name에서 origin 제외
-
-</br>
 
 </br>
 
