@@ -7,7 +7,7 @@ git branch [new branch name]
 ```
 
 새로운 브랜치를 생성한다. 
-
+<br>
 
 ---
 
@@ -19,13 +19,13 @@ git branch
 
 로컬 브랜치를 조회한다.
 
-
+<br>
 
 > 옵션
 > 
 > -r : remote branch list를 보여준다
 
-
+<br>
 
 ------
 
@@ -37,13 +37,13 @@ git branch -d [branch name]
 
 로컬 브랜치를 제거한다.
 
-
+<br>
 
 > 옵션
 > 
 > -d  를 -D로 교체 : 강제 삭제된다.
 
-
+<br>
 
 ----
 
