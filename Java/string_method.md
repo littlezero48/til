@@ -2,7 +2,7 @@
 
 </br>
 
-### String 길이
+## String 길이
 
 ```java
 int a = String변수명.length();
@@ -19,7 +19,7 @@ array변수.length; 와 헷갈릴수 있는데 이건 배열의 길이를 알고
 
 </br>
 
-### 문자열 비교
+## 문자열 비교
 
 ```java
 String a = "hi";

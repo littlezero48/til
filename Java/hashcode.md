@@ -9,7 +9,7 @@
 int a_hashCode = a.hashCode();
 ```
 
-객체의 고유한 값을 반환한다. (메모리 주소 값이 아니다)
+객체의 `고유한 값`을 반환한다. (메모리 주소 값이 아니다)
 
 다만, String클래스와 Integer클래스 같이 오버라이딩 된 클래스라면 메모리 주소가 아닌 다른 것을 반환하는데
 
@@ -32,7 +32,7 @@ int a_hashCode = a.hashCode();
 int a_hashCode = a.identityHashCode();
 ```
 
-객체의 고유한 값을 반환한다. (메모리 주소 값이 아니다)
+객체의 `고유한 값`을 반환한다. (메모리 주소 값이 아니다)
 
 System.identityHashCode() 메소드는 오버라이드 되지 않고 고유한 값을 리턴한다.
 

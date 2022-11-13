@@ -2,7 +2,7 @@
 
 </br>
 
-### branch 생성
+## branch 생성
 
 ```bash
 git branch [new branch name]
@@ -16,7 +16,7 @@ git branch [new branch name]
 
 </br>
 
-### branch list 보기
+## branch list 보기
 
 ```bash
 git branch
@@ -36,7 +36,7 @@ git branch
 
 </br>
 
-### branch 삭제
+## branch 삭제
 
 ```bash
 git branch -d [branch name]
@@ -56,7 +56,7 @@ git branch -d [branch name]
 
 </br>
 
-### remote branch 삭제
+## remote branch 삭제
 
 ```bash
 git push origin --delete [remote branch name]
